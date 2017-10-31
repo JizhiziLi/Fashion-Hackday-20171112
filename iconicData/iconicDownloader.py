@@ -10,6 +10,7 @@
 
 import json
 import urllib
+import requests
 
 filename = './iconic.json'
 
