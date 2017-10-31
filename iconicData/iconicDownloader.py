@@ -1,7 +1,7 @@
 ###########
 # Created by Jizhizi Li @ 31/10/2017
 # A simple download function to download images and texts
-# after crawling from Iconic∑ website (https://www.theiconic.com.au)
+# after crawling from Iconic website (https://www.theiconic.com.au)
 # save in folders. Use as raw data in a coming fashion-hack-day too 
 #
 # Input: A json file created after crawling
@@ -9,7 +9,6 @@
 ###########
 
 import json
-import requests
 import urllib
 
 filename = './iconic.json'
